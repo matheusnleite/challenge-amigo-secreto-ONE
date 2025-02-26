@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/github/forks/matheusnleite/challenge-amigo-secreto-ONE" alt="Forks"/>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Logo+do+Projeto" alt="Logo do Projeto" />
-</p>
-
 ---
 
 <h2>📖 Descrição</h2>
